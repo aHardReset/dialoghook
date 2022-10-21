@@ -6,6 +6,10 @@ authors = ["aHardReset <ing.aarongaribay@outlook.com>"]
 readme = "README.md"
 keywords = ["dialogflow", "webhook", "fulfillment", "dialogflow es"]
 
+homepage = "https://github.com/aHardReset/dialoghook"
+repository = "https://github.com/aHardReset/dialoghook"
+documentation = "https://github.com/aHardReset/dialoghook"
+
 [tool.poetry.dependencies]
 python = "^3.10"
 pydantic = "^1.10.2"
