@@ -1,7 +1,7 @@
 from typing import List, Dict
 from enum import Enum
 
-from common import Message, Context
+from .common import Message, Context
 
 from pydantic import BaseModel
 
